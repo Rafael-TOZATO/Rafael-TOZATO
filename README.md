@@ -7,5 +7,5 @@
 * [Dashboard de Certificados](https://github.com/Rafael-TOZATO/dashboard-certificados)
 * [Declaração Estudantil](https://github.com/Rafael-TOZATO/declaracao-estudantil)
 * [Publicações Técnicas - Medium](https://medium.com/@ornelas.tozato)
-  
+* [📝 Artigo em Destaque – O Papel da Qualidade na Indústria Moderna](https://medium.com/@ornelas.tozato/o-papel-da-qualidade-na-indústria-moderna-deixou-de-ser-uma-rotina-estática-de-bancada-para-se-362743db2187)  
 *QA | Automação | Testes | Agile | Governança 4.0*
