@@ -19,7 +19,8 @@ Consolidação de 18 certificações oficiais, organizadas em 4 grupos técnicos
 | **Total** | **18** | **760h** |
 
 Dashboard executivo e carrossel técnico disponíveis nos arquivos deste repositório:
-- `Rafael_Ornelas_Tozato_Portfolio_Certificacoes_Engenharia_4_0.pdf`
+
+`Rafael_Ornelas_Tozato_Portfolio_Certificacoes_Engenharia_4_0.pdf`
 
 ---
 
@@ -64,4 +65,4 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@rafael.tozato](https://medium.com/@rafael.tozato)
 - DIO: [dio.me/users/rafael_tozato](https://dio.me/users/rafael_tozato)
-- 
+  
