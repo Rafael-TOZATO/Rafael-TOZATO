@@ -29,7 +29,7 @@ Certificação complementar cursada em parceria com a IBM, via DIO:
 - Bootcamp Nível Empresarial para Desenvolvedores com IBM Bob (IA)
 - IBM Bob Avançado: MCP, Custom Modes e Personalização
 
-Trilha aplicada à estruturação de fluxos de trabalho assistidos por IA e à automação de processos de documentação técnica.
+Aplicação prática da trilha: [Dashboard de Gestão de RH desenvolvido com apoio da plataforma IBM Bob](https://github.com/Rafael-TOZATO/dashboard-gestao-recursos-humanos-dio-santander-main), incluindo documentação da jornada técnica e resolução de desafios de ambiente.
 
 ---
 
@@ -52,6 +52,7 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 ## Projetos em Destaque
 
 - Dashboard de Gestão de Recursos Humanos (Power BI)
+- Dashboard de Gestão de RH com apoio da plataforma IBM Bob (DIO/Santander)
 - Relatório Gerencial de Vendas com Power BI (Financials)
 - Dashboard Executivo de Certificações Técnicas
 
@@ -63,4 +64,4 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@rafael.tozato](https://medium.com/@rafael.tozato)
 - DIO: [dio.me/users/rafael_tozato](https://dio.me/users/rafael_tozato)
-  
+- 
