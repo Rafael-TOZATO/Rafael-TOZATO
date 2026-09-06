@@ -58,6 +58,8 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - Dashboard de Gestão de RH com apoio da plataforma IBM Bob (DIO/Santander)
 - Relatório Gerencial de Vendas com Power BI (Financials)
 - Dashboard Executivo de Certificações Técnicas
+- **n8n-Cobranças Inteligentes**: [Documentação Técnica](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes)
+- Automação financeira integrada com n8n, Google Sheets e Gmail.
 
 ---
 
