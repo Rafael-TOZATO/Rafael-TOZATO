@@ -32,7 +32,7 @@ Certificação complementar cursada em parceria com a IBM, via DIO:
 
 Aplicação prática da trilha: [Dashboard de Gestão de RH desenvolvido com apoio da plataforma IBM Bob](https://github.com/Rafael-TOZATO/dashboard-gestao-recursos-humanos-dio-santander-main), incluindo documentação da jornada técnica e resolução de desafios de ambiente.
 
-- **Tozato Dev Hub**: [Acessar Aplicação](https://github.com/Rafael-TOZATO/tozato-dev-hub) - Plataforma centralizada de portfólio e projetos autônomos.
+- **Tozato Dev Hub**: [Acessar Aplicação](https://tozato-dev-hub.vercel.app) - Plataforma centralizada de portfólio e projetos autônomos.
 
 ---
 
