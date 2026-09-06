@@ -1,5 +1,7 @@
 # Rafael Ornelas Tozato
 
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+
 ## Engenheiro Químico | Garantia da Qualidade | Governança 4.0 | Automação e Dados
 
 Especialista em Garantia da Qualidade e Governança Industrial, com atuação voltada à integração de Data Analytics e Inteligência Artificial em processos produtivos. Trajetória fundamentada em rigor técnico de Gestão da Qualidade, com foco atual na transição para Engenharia 4.0, unindo automação de processos, modelagem de dados e conformidade regulatória.
