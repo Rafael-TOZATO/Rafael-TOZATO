@@ -70,5 +70,6 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - LinkedIn: [linkedin.com/in/rafael-tozato](https://linkedin.com/in/rafael-tozato)
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@rafael.tozato](https://medium.com/@rafael.tozato)
-- DIO: [dio.me/users/rafael_tozato](https://dio.me/users/rafael_tozato)
-  
+- DIO: [dio.me/users/rafael_tozato]
+(https://web.dio.me/certificates)
+
