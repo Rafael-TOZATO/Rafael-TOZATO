@@ -62,7 +62,9 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - Dashboard Executivo de Certificações Técnicas
 - **n8n-Cobranças Inteligentes**: [Documentação Técnica](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes)
 - Automação financeira integrada com n8n, Google Sheets e Gmail.
-
+- **Geo-Explorer (IBM Bob):** [Repositório Oficial](https://github.com/Rafael-TOZATO/geo-explorer) - Projeto desenvolvido com apoio da plataforma IBM Bob para exploração analítica e geoespacial.
+- **Bootcamp MCP:** [Repositório Oficial](https://github.com/Rafael-TOZATO/bootcamp-i...) - Trilha de tecnologia, projetos e capacitação avançada em Model Context Protocol.
+  
 ---
 
 ## Contato
