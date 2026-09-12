@@ -1,0 +1,17 @@
+name: Automação Principal
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  validacao:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Validar execução
+        run: echo "Automação configurada e executada com sucesso!"
+        
