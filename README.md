@@ -87,4 +87,4 @@ Formação técnica conduzida de forma autodidata, com resolução autônoma de 
 - LinkedIn: [linkedin.com/in/rafael-tozato](https://linkedin.com/in/rafael-tozato)
 - GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - Medium: [medium.com/@rafael.tozato](https://medium.com/@rafael.tozato)
-- Lovable: aurora-bi-dio.lovable.app
+- Aurora BI: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
