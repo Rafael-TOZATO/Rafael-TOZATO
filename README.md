@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.gif" alt="Banner Animado TozatoCode-AI" width="100%" style="border-radius: 8px;">
+  <img src="banner-perfil.png" alt="Rafael Ornelas Tozato Banner" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
@@ -33,8 +33,8 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 
 ## 🚀 Portfólio Técnico e Ecossistema de Projetos
 
-* **Tozato Devin Hub (Hub Principal):** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
-* **Developer Hub (PWA / Web App):** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **Tozato Devin Hub (Hub Principal):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **Developer Hub (PWA / Web App):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **Aurora BI (Dashboard Executivo):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 * **GitHub Repositories:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 * **Technical Articles (Medium):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
@@ -46,7 +46,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 * **💼 LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 * **🐙 GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 * **✍️ Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **🌐 Portfólio PWA:** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **🌐 Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **🚀 Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 ---
