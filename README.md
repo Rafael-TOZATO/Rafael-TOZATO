@@ -1,91 +1,54 @@
 <p align="center">
-  <img src="banner-perfil.png" alt="Rafael Ornelas Tozato — AI Engineer, Governança 4.0 e Qualidade" width="100%">
+  <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge&logo=git" alt="Status">
+  <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
+  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 9001">
+  <img src="https://img.shields.io/badge/Indústria-4.0-orange?style=for-the-badge&logo=industry&logoColor=white" alt="Indústria 4.0">
+  <img src="https://img.shields.io/badge/React%2STS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React & TypeScript">
+  <img src="https://img.shields.io/badge/Data%20Analytics-IA%20Aplicada-purple?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Data Analytics">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-AI%20Engineer-success?style=for-the-badge&logo=git" alt="Status">
-  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
-  <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
-  <img src="https://img.shields.io/badge/Python-%20AI-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python & IA">
-  <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-purple?style=for-the-badge&logo=ercot&logoColor=white" alt="Lean Six Sigma">
+  <img src="banner.svg" alt="Banner Animado TozatoCode-AI" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
+### Especialista em Garantia da Qualidade & Governança Industrial | Desenvolvedor Full-Stack & Data Analytics (IA Aplicada)
 
-> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
-> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
+Minha trajetória profissional de mais de 20 anos é fundamentada no rigor da Gestão da Qualidade, com sólida experiência na otimização de processos produtivos, redução de desperdícios e garantia da excelência operacional em ambientes industriais de alta complexidade. 
 
----
+Acredito que a maturidade técnica, aliada à capacidade de análise crítica, é o que sustenta decisões de negócio sólidas.
 
-## Engenheiro Químico | Garantia da Qualidade | Governança 4.0 | Automação e Dados
-
-Especialista em Garantia da Qualidade e Governança Industrial, com atuação voltada à integração de Data Analytics e Inteligência Artificial em processos produtivos. Trajetória fundamentada em rigor técnico de Gestão da Qualidade, com foco atual na transição para Engenharia 4.0, unindo automação de processos, modelagem de dados e conformidade regulatória.
+Atualmente, dedico minha jornada à convergência entre a robustez dos processos industriais e a engenharia de software moderna. Utilizo inteligência artificial e ferramentas de ponta para transformar dados brutos em soluções digitais completas — desenvolvendo desde dashboards executivos de BI até aplicações web funcionais prontas para produção.
 
 ---
 
-## Portfólio Técnico de Certificações
+## 🛠️ Core Competencies & Tech Stack
 
-Consolidação de 18 certificações oficiais, organizadas em 4 grupos técnicos, totalizando 760 horas de capacitação.
-
-| Grupo Técnico | Certificados | Carga Horária |
-|---|---:|---:|
-| Engenharia 4.0 & Automação | 4 | 160h |
-| Python & Automação de Processos | 4 | 185h |
-| Modelagem de Dados & Business Intelligence | 6 | 230h |
-| Garantia da Qualidade & IA | 4 | 185h |
-| **Total** | **18** | **760h** |
-
-Dashboard executivo e carrossel técnico disponíveis nos arquivos deste repositório:
-
-`Rafael_Ornelas_Tozato_Portfolio_Certificacoes_Engenharia_4_0.pdf`
+* **Engenharia de Software & Web:** React, TypeScript, Tailwind CSS, shadcn/ui e Single Page Applications (SPA/PWA).
+* **Desenvolvimento Agilizado & Cloud:** v0 (Vercel), Lovable, Deploy Contínuo (CI/CD) e arquiteturas otimizadas em nuvem.
+* **Data Analytics & BI:** Inteligência Financeira, Modelagem de KPIs, Dashboards Interativos e Análise de Dados Corporativos.
+* **Gestão Industrial & Qualidade:** Governança de Processos, Garantia da Qualidade, Melhoria Contínua e Indústria 4.0.
 
 ---
 
-## Parceria Técnica IBM
+## 🚀 Portfólio Técnico e Ecossistema de Projetos
 
-Certificação complementar cursada em parceria com a IBM, via DIO:
-- Bootcamp Nível Empresarial para Desenvolvedores com IBM Bob (IA)
-- IBM Bob Avançado: MCP, Custom Modes e Personalização
+* **Tozato Devin Hub (Hub Principal):** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **Developer Hub (PWA / Web App):** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **Aurora BI (Dashboard Executivo):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+* **GitHub Repositories:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+* **Technical Articles (Medium):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
 
-Aplicação prática da trilha: [Dashboard de Gestão de RH desenvolvido com apoio da plataforma IBM Bob](https://github.com/Rafael-TOZATO/dashboard-gestao-recursos-humanos-dio-santander-main), incluindo documentação da jornada técnica e resolução de desafios de ambiente.
-
-- **Tozato Dev Hub**: [Acessar Aplicação](https://tozato-dev-hub.vercel.app) - Plataforma centralizada de portfólio e projetos autônomos.
-
----
-
-## Metodologia de Aprendizagem
-
-Formação técnica conduzida de forma autodidata, com resolução autônoma de desafios de infraestrutura ao longo dos projetos práticos: instalação e configuração de controle de versão (Git), ajuste de permissões de sistema para publicação de documentação, e troubleshooting de bloqueios de licenciamento e publicação em ambientes como Power BI Service.
-
----
-
-## Competências Técnicas
-
-- **Gestão Industrial & Qualidade:** Governança de Processos, ISO 9001, CAPA, Tratativa de Não Conformidades, Lean Six Sigma.
-- **Automação & Engenharia 4.0:** Integração de sistemas industriais, IoT, automação de células de manufatura.
-- **Dados & Business Intelligence:** Power BI, DAX, modelagem relacional, governança de dados.
-- **Python:** Automação de processos, pipelines de dados, integração via API.
-- **IA Aplicada:** Ferramentas de desenvolvimento assistido por IA (IBM Bob), engenharia de prompts.
-
----
-
-## Projetos em Destaque
-
-- Dashboard de Gestão de Recursos Humanos (Power BI)
-- Dashboard de Gestão de RH com apoio da plataforma IBM Bob (DIO/Santander)
-- Relatório Gerencial de Vendas com Power BI (Financials)
-- Dashboard Executivo de Certificações Técnicas
-- **n8n-Cobranças Inteligentes**: [Documentação Técnica](https://github.com/Rafael-TOZATO/n8n-cobrancas-inteligentes)
-- Automação financeira integrada com n8n, Google Sheets e Gmail.
-- **Geo-Explorer (IBM Bob):** [Repositório Oficial](https://github.com/Rafael-TOZATO/geo-explorer) - Projeto desenvolvido com apoio da plataforma IBM Bob para exploração analítica e geoespacial.
-- **Bootcamp MCP:** [Repositório Oficial](https://github.com/Rafael-TOZATO/bootcamp-i...) - Trilha de tecnologia, projetos e capacitação avançada em Model Context Protocol.
-  
 ---
 
 ## 📬 Contatos
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+* **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+* **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+
+---
+
+> *"Transforme ideias em impacto através da convergência entre rigor industrial e engenharia de software."*
