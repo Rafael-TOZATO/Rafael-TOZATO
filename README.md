@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
-  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=iso&logoColor=white" alt="ISO 9001">
-  <img src="https://img.shields.io/badge/Indústria-4.0-orange?style=for-the-badge&logo=industry&logoColor=white" alt="Indústria 4.0">
-  <img src="https://img.shields.io/badge/React%2STS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React & TypeScript">
-  <img src="https://img.shields.io/badge/Data%20Analytics-IA%20Aplicada-purple?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Data Analytics">
+  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
+  <img src="https://img.shields.io/badge/Governan%C3%A7a-Ind%C3%BAstria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
+  <img src="https://img.shields.io/badge/React%20%26%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React & TypeScript">
+  <img src="https://img.shields.io/badge/Data%20Analytics-IA%20Aplicada-purple?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Data Analytics">
 </p>
 
 <p align="center">
-  <img src="banner.svg" alt="Banner Animado TozatoCode-AI" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=140&section=header&text=Rafael%20Ornelas%20Tozato&fontSize=32&animation=fadeIn&fontColor=fff&desc=Qualidade%20Industrial%20%7C%20Full-Stack%20%26%20Data%20Analytics%20(IA)&descSize=15&descAlignY=68" alt="Banner Animado" width="100%">
 </p>
 
 # Rafael Ornelas Tozato
@@ -43,11 +43,11 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 
 ## 📬 Contatos
 
-* **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-* **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-* **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
-* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+* **💼 LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* **🐙 GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+* **✍️ Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* **🌐 Portfólio PWA:** [tozato-dev-hub.vercel.app](https://h-folio-psi.vercel.app)
+* **🚀 Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 ---
 
