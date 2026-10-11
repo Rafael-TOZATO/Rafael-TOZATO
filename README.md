@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=140&section=header&text=Rafael%20Ornelas%20Tozato&fontSize=32&animation=fadeIn&fontColor=fff&desc=Qualidade%20Industrial%20%7C%20Full-Stack%20%26%20Data%20Analytics%20(IA)&descSize=15&descAlignY=68" alt="Banner Animado" width="100%">
+  <img src="banner.gif" alt="Banner Animado TozatoCode-AI" width="100%" style="border-radius: 8px;">
 </p>
 
 # Rafael Ornelas Tozato
