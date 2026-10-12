@@ -38,7 +38,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 * **Aurora BI (Dashboard Executivo):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 * **GitHub Repositories:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 * **Technical Articles (Medium):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **Microsoft Learn Transcript:** [Dynamics 365 & ERP Modules](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)crosoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+* **Microsoft Learn Transcript:** [Dynamics 365 & ERP Modules](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
 ---
 
