@@ -28,7 +28,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 * **Desenvolvimento Agilizado & Cloud:** v0 (Vercel), Lovable, Deploy Contínuo (CI/CD) e arquiteturas otimizadas em nuvem.
 * **Data Analytics & BI:** Inteligência Financeira, Modelagem de KPIs, Dashboards Interativos e Análise de Dados Corporativos.
 * **Gestão Industrial & Qualidade:** Governança de Processos, Garantia da Qualidade, Melhoria Contínua e Indústria 4.0.
-
+  
 ---
 
 ## 🚀 Portfólio Técnico e Ecossistema de Projetos
@@ -38,6 +38,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 * **Aurora BI (Dashboard Executivo):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 * **GitHub Repositories:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 * **Technical Articles (Medium):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* **Microsoft Learn Transcript:** [Dynamics 365 & ERP Modules](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)crosoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
 ---
 
@@ -48,6 +49,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 * **✍️ Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
 * **🌐 Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
 * **🚀 Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+* **📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
 ---
 
