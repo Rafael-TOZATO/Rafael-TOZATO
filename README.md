@@ -31,14 +31,21 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
   
 ---
 
-## 🚀 Portfólio Técnico e Ecossistema de Projetos
+### 💻 Projetos e Portfólios
+* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 
-* **Tozato Devin Hub (Hub Principal):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **Developer Hub (PWA / Web App):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **Aurora BI (Dashboard Executivo):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-* **GitHub Repositories:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-* **Technical Articles (Medium):** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **Microsoft Learn Transcript:** [Dynamics 365 & ERP Modules](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+### 📊 Analytics e BI
+* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+
+### 🐙 Código e Repositórios
+* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+### 📝 Artigos e Publicações
+* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+
+### 🎓 Certificações e Educação
+* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
 
 ---
 
