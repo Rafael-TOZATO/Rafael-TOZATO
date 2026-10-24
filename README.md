@@ -32,7 +32,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 ---
 
 ### 💻 Projetos e Portfólios
-* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **Dev Hub:** [tozato-dev-hub.vercel.app]([https://tozato-dev-hub.vercel.app](https://tozato-dev-hub-app.vercel.app))
 * **H-Folio:** [h-folio-l0-vercel.app](https://h-folio-l0.vercel.app/)
 
 ---
