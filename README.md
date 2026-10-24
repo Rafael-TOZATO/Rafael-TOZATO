@@ -32,17 +32,16 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 ---
 
 ### 💻 Projetos e Portfólios
-* **Dev Hub:** [tozato-dev-hub.vercel.app]([https://tozato-dev-hub.vercel.app](https://tozato-dev-hub-app.vercel.app))
-* **H-Folio:** [h-folio-l0-vercel.app](https://h-folio-l0.vercel.app/)
+* **Dev Hub:** [tozato-dev-hub-app.vercel.app](https://tozato-dev-hub-app.vercel.app)
+* **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
----
 ### 🐙 Código e Repositórios
 * **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
----
-### 📝 Artigos e Publicações
+
+### ✍️ Artigos e Publicações
 * **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
----
-### 🎓 Certificações e Educação
+
+### 📜 Certificações e Educação
 * **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
 
 ---
@@ -52,10 +51,13 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-l0-vercel.app](https://h-folio-l0.vercel.app/)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+- 🌐 **Dev Hub:** [tozato-dev-hub-app.vercel.app](https://tozato-dev-hub-app.vercel.app)
+- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
 
 ---
+
+> *"Transforme ideias em impacto através da convergência entre rigor industrial e engenharia de software."*
+
 
 > *"Transforme ideias em impacto através da convergência entre rigor industrial e engenharia de software."*
