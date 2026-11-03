@@ -32,7 +32,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 ---
 
 ### 💻 Projetos e Portfólios
-* **Dev Hub:** [tozato-dev-hub-app.vercel.app](https://tozato-dev-hub-app.vercel.app)
+* **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 * **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 
 ### 🐙 Código e Repositórios
@@ -51,7 +51,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Dev Hub:** [tozato-dev-hub-app.vercel.app](https://tozato-dev-hub-app.vercel.app)
+- 🌐 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
 - 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
 
