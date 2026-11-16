@@ -40,6 +40,7 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
 
 ### ✍️ Artigos e Publicações
 * **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* **DEV.to:** [dev.to/rafaeltozato](https://dev.to/rafaeltozato)  
 
 ### 📜 Certificações e Educação
 * **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
