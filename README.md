@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
+  <a href="https://github.com/Rafael-TOZATO/tozato-ai-core/security"><img src="https://img.shields.io/badge/Secret%20Protection-Enabled-success?style=for-the-badge&logo=github" alt="Secret Protection"></a>
   <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
   <img src="https://img.shields.io/badge/Governan%C3%A7a-Ind%C3%BAstria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
   <img src="https://img.shields.io/badge/React%20%26%20TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React & TypeScript">
@@ -10,7 +11,6 @@
 <p align="center">
   <img src="banner-perfil.png" alt="Rafael Ornelas Tozato Banner" width="100%">
 </p>
-
 # Rafael Ornelas Tozato
 ### Especialista em Garantia da Qualidade & Governança Industrial | Desenvolvedor Full-Stack & Data Analytics (IA Aplicada)
 
