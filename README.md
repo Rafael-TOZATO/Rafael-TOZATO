@@ -20,16 +20,12 @@ Acredito que a maturidade técnica, aliada à capacidade de análise crítica, �
 
 Atualmente, dedico minha jornada à convergência entre a robustez dos processos industriais e a engenharia de software moderna. Utilizo inteligência artificial e ferramentas de ponta para transformar dados brutos em soluções digitais completas — desenvolvendo desde dashboards executivos de BI até aplicações web funcionais prontas para produção.
 
----
-
 ## 🛠️ Core Competencies & Tech Stack
 
 * **Engenharia de Software & Web:** React, TypeScript, Tailwind CSS, shadcn/ui e Single Page Applications (SPA/PWA).
 * **Desenvolvimento Agilizado & Cloud:** v0 (Vercel), Lovable, Deploy Contínuo (CI/CD) e arquiteturas otimizadas em nuvem.
 * **Data Analytics & BI:** Inteligência Financeira, Modelagem de KPIs, Dashboards Interativos e Análise de Dados Corporativos.
 * **Gestão Industrial & Qualidade:** Governança de Processos, Garantia da Qualidade, Melhoria Contínua e Indústria 4.0.
-  
----
 
 **Rafael Ornelas Tozato**
 
