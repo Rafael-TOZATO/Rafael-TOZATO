@@ -31,34 +31,23 @@ Atualmente, dedico minha jornada à convergência entre a robustez dos processos
   
 ---
 
-### 💻 Projetos e Portfólios
-* **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-* **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
+**Rafael Ornelas Tozato**
 
-### 🐙 Código e Repositórios
-* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+Engenharia Química | Garantia da Qualidade | Governança 4.0
 
-### ✍️ Artigos e Publicações
-* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-* **DEV.to:** [dev.to/rafaeltozato](https://dev.to/rafaeltozato)  
+## 📬 CONTATOS E PERFIS
 
-### 📜 Certificações e Educação
-* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
 
----
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
 
-## 📬 Contatos
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Dev Hub:** [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
-- 🌐 **H-Folio:** [h-folio-l0.vercel.app](https://h-folio-l0.vercel.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
-
----
-
-> *"Transforme ideias em impacto através da convergência entre rigor industrial e engenharia de software."*
-
-
-> *"Transforme ideias em impacto através da convergência entre rigor industrial e engenharia de software."*
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
